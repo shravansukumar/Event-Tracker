@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>New item - 3</key>
+		<string></string>
+		<key>New item - 2</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>New item - 3</key>
+		<string></string>
+		<key>New item - 2</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>New item - 3</key>
+		<string></string>
+		<key>New item - 2</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>New item - 3</key>
+		<string></string>
+		<key>New item - 2</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string></string>
+		<key>EntryType</key>
+		<string></string>
+		<key>EventName</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>SummerNoonParty</string>
+		<key>EntryType</key>
+		<string>Paid Entry</string>
+		<key>EventName</key>
+		<string>Summer Noon Party in Kumara Park</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>StartupMeet</string>
+		<key>EntryType</key>
+		<string>Paid Entry</string>
+		<key>EventName</key>
+		<string>Start up meet in Kanteevara Stadium</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>WineTasting</string>
+		<key>EntryType</key>
+		<string>Paid Entry</string>
+		<key>EventName</key>
+		<string>Wine Tasting in Links Brewery </string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>SareeExhibition</string>
+		<key>EntryType</key>
+		<string>Free Entry</string>
+		<key>EventName</key>
+		<string>Saree Exhibition in Malleshwaram Grounds</string>
+	</dict>
+	<dict>
+		<key>ImageName</key>
+		<string>Metallica</string>
+		<key>EntryType</key>
+		<string>Free Entry</string>
+		<key>EventName</key>
+		<string>Metallica Concert</string>
+	</dict>
+</array>
+</plist>
